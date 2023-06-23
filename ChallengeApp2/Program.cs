@@ -56,4 +56,5 @@ Console.WriteLine("4 ==> " + counters[4]);
 Console.WriteLine("5 ==> " + counters[5]);
 Console.WriteLine("6 ==> " + counters[6]);
 Console.WriteLine("7 ==> " + counters[7]);
+Console.WriteLine("7 ==> " + counters[8]);
 Console.WriteLine("9 ==> " + counters[9]);
