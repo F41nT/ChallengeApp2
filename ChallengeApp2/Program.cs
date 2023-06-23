@@ -1,6 +1,6 @@
 ﻿using System.Data;
 
-ulong number = ulong.MaxValue;
+ulong number = 12345678905821487962;
 string numberInString = number.ToString();
 char[] letter = numberInString.ToArray();
 int[] counters = new int[10];
@@ -56,5 +56,5 @@ Console.WriteLine("4 ==> " + counters[4]);
 Console.WriteLine("5 ==> " + counters[5]);
 Console.WriteLine("6 ==> " + counters[6]);
 Console.WriteLine("7 ==> " + counters[7]);
-Console.WriteLine("7 ==> " + counters[8]);
+Console.WriteLine("8 ==> " + counters[8]);
 Console.WriteLine("9 ==> " + counters[9]);
